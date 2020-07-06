@@ -1,0 +1,5 @@
+Este será un proyecto para practicar nuevos comandos de git
+
+Los colaboradores son los siguientes:
+
+1.- Francisco Lopez
